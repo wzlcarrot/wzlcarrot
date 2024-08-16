@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://www.acwing.com/user/myspace/index/136759/" target="blank">AcWing</a>
   <a href="https://space.bilibili.com/1966997715?spm_id_from=333.1007.0.0" target="blank">Bilibili</a>
-  <a href="https://leetcode.cn/u/tle_machine/" target="blank">leetcode</a>
+  <a href="https://leetcode.cn/u/tle_machine/" target="blank">Leetcode</a>
   <a href="https://blog.csdn.net/weixin_55057111?spm=1000.2115.3001.5343" target="blank">CSDN</a>
-  <a href="https://wzlcarrot.top/" target="blank">blog</a>
+  <a href="https://wzlcarrot.top/" target="blank">博客</a>
 </p>
 
 ## status
