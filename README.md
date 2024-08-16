@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am wzlcarrot(｡◕ ∀ ◕｡)👋
 
 
 
@@ -11,3 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzlcarrot&hide=contribs,prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wzlcarrot&hide_progress=true)
